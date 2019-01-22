@@ -1,0 +1,340 @@
+{
+    "total_count": 4428,
+    "iconsets": [{
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 50,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:49:17.865Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 10.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "office-elements-icons-1",
+        "type": "vector",
+        "iconset_id": 34884,
+        "categories": [{
+            "identifier": "business-finance",
+            "name": "Business & finance"
+        }],
+        "name": "Office elements icons"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 18,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:17:28.889Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 7.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "education-icons-6",
+        "type": "vector",
+        "iconset_id": 34878,
+        "categories": [{
+            "identifier": "education-science",
+            "name": "Education & science"
+        }],
+        "name": "Education icons"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 15,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:17:23.842Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 7.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "business-economics-2",
+        "type": "vector",
+        "iconset_id": 34879,
+        "categories": [{
+            "identifier": "business-finance",
+            "name": "Business & finance"
+        }],
+        "name": "Business Economics"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 12,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:17:18.384Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 5.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "data-science-4",
+        "type": "vector",
+        "iconset_id": 34880,
+        "categories": [{
+            "identifier": "education-science",
+            "name": "Education & science"
+        }],
+        "name": "Data science"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 13,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:17:12.220Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 7.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "learning-and-education-2",
+        "type": "vector",
+        "iconset_id": 34881,
+        "categories": [{
+            "identifier": "education-science",
+            "name": "Education & science"
+        }],
+        "name": "Learning and Education"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 10,
+        "author": {
+            "username": "apatpoh",
+            "user_id": 585239,
+            "name": "Maxim Baltag",
+            "iconsets_count": 22,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:17:07.022Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 5.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "startup-8",
+        "type": "vector",
+        "iconset_id": 34882,
+        "categories": [{
+            "identifier": "business-finance",
+            "name": "Business & finance"
+        }],
+        "name": "Startup"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 30,
+        "author": {
+            "username": "popcornarts",
+            "user_id": 419109,
+            "name": "Popcorn Arts",
+            "company": "popcornarts",
+            "is_designer": true,
+            "iconsets_count": 84
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:16:19.485Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 18.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "communication-connection-set-2",
+        "type": "vector",
+        "iconset_id": 34876,
+        "categories": [{
+            "identifier": "seo-web",
+            "name": "SEO & web"
+        }, {
+            "identifier": "network-communication",
+            "name": "Network & communications"
+        }],
+        "name": "Communication & Connection-set 2"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 30,
+        "author": {
+            "username": "popcornarts",
+            "user_id": 419109,
+            "name": "Popcorn Arts",
+            "company": "popcornarts",
+            "is_designer": true,
+            "iconsets_count": 84
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:16:13.786Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 18.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "communication-connection-set-1",
+        "type": "vector",
+        "iconset_id": 34875,
+        "categories": [{
+            "identifier": "network-communication",
+            "name": "Network & communications"
+        }],
+        "name": "Communication & Connection-set 1"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 27,
+        "author": {
+            "username": "iconmonk",
+            "user_id": 588264,
+            "name": "icon monk",
+            "company": "iconmonk",
+            "is_designer": true,
+            "iconsets_count": 7
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:14:36.404Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 15.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "food-and-beverages-3",
+        "type": "vector",
+        "iconset_id": 34871,
+        "categories": [{
+            "identifier": "food-drinks",
+            "name": "Food & drinks"
+        }],
+        "name": "Food and Beverages"
+    }, {
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "icons_count": 11,
+        "author": {
+            "username": "MilanaTT",
+            "user_id": 58849,
+            "name": "Natalya Skidan",
+            "iconsets_count": 84,
+            "is_designer": true
+        },
+        "is_premium": true,
+        "published_at": "2016-06-30T14:04:01.051Z",
+        "prices": [{
+            "currency": "USD",
+            "price": 14.0,
+            "license": {
+                "url": "https://www.iconfinder.com/licenses/basic",
+                "license_id": 71,
+                "name": "Basic license",
+                "scope": "free"
+            }
+        }],
+        "identifier": "monster-1",
+        "type": "vector",
+        "iconset_id": 34858,
+        "categories": [{
+            "identifier": "avatars-smiley",
+            "name": "Avatars & smileys"
+        }],
+        "name": "Monster"
+    }]
+}
